@@ -1,3 +1,3 @@
 # Hello-World-JavaScript
 
-Hellow World Program in JavaScript
+Hello World Program in JavaScript
